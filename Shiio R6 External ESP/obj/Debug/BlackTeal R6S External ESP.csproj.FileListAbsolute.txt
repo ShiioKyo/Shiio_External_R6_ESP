@@ -1,0 +1,20 @@
+D:\Downloads\BlackTeal R6S External ESP\BlackTeal R6S External ESP\bin\Debug\BlackTeal R6S External ESP.exe.config
+D:\Downloads\BlackTeal R6S External ESP\BlackTeal R6S External ESP\bin\Debug\BlackTeal R6S External ESP.exe
+D:\Downloads\BlackTeal R6S External ESP\BlackTeal R6S External ESP\bin\Debug\BlackTeal R6S External ESP.pdb
+D:\Downloads\BlackTeal R6S External ESP\BlackTeal R6S External ESP\bin\Debug\SharpDX.Direct2D1.dll
+D:\Downloads\BlackTeal R6S External ESP\BlackTeal R6S External ESP\bin\Debug\SharpDX.dll
+D:\Downloads\BlackTeal R6S External ESP\BlackTeal R6S External ESP\bin\Debug\SharpDX.DXGI.dll
+D:\Downloads\BlackTeal R6S External ESP\BlackTeal R6S External ESP\bin\Debug\SharpDX.pdb
+D:\Downloads\BlackTeal R6S External ESP\BlackTeal R6S External ESP\bin\Debug\SharpDX.Direct2D1.pdb
+D:\Downloads\BlackTeal R6S External ESP\BlackTeal R6S External ESP\bin\Debug\SharpDX.Direct2D1.xml
+D:\Downloads\BlackTeal R6S External ESP\BlackTeal R6S External ESP\bin\Debug\SharpDX.DXGI.pdb
+D:\Downloads\BlackTeal R6S External ESP\BlackTeal R6S External ESP\bin\Debug\SharpDX.DXGI.xml
+D:\Downloads\BlackTeal R6S External ESP\BlackTeal R6S External ESP\obj\Debug\BlackTeal R6S External ESP.csprojAssemblyReference.cache
+D:\Downloads\BlackTeal R6S External ESP\BlackTeal R6S External ESP\obj\Debug\BlackTeal_R6S_External_ESP.MainForm.resources
+D:\Downloads\BlackTeal R6S External ESP\BlackTeal R6S External ESP\obj\Debug\BlackTeal_R6S_External_ESP.Overlay.resources
+D:\Downloads\BlackTeal R6S External ESP\BlackTeal R6S External ESP\obj\Debug\BlackTeal_R6S_External_ESP.Properties.Resources.resources
+D:\Downloads\BlackTeal R6S External ESP\BlackTeal R6S External ESP\obj\Debug\BlackTeal R6S External ESP.csproj.GenerateResource.cache
+D:\Downloads\BlackTeal R6S External ESP\BlackTeal R6S External ESP\obj\Debug\BlackTeal R6S External ESP.csproj.CoreCompileInputs.cache
+D:\Downloads\BlackTeal R6S External ESP\BlackTeal R6S External ESP\obj\Debug\BlackTeal R6S External ESP.csproj.CopyComplete
+D:\Downloads\BlackTeal R6S External ESP\BlackTeal R6S External ESP\obj\Debug\BlackTeal R6S External ESP.exe
+D:\Downloads\BlackTeal R6S External ESP\BlackTeal R6S External ESP\obj\Debug\BlackTeal R6S External ESP.pdb
